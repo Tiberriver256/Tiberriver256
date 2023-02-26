@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Tiberriver256/Tiberriver256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👷‍♂️ Full-stack web developer working at [OST](https://www.ostusa.com/) <br>
+📝 Check out my [blog](https://tiberriver256.github.io/)<br>
 
-Here are some ideas to get you started:
+#### ⚡ Familiar Tech Stack ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React/Angular
+* .NET C#
+* PowerShell
+* Azure
+
+#### 💭 Interests
+
+* Web Development
+* Continuous Improvement
+* Open Source
+* Learning new programming languages
+* CI/CD
+* Infrastructure as Code
